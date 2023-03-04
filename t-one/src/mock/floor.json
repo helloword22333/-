@@ -1,0 +1,130 @@
+[
+    {
+        "id": "001",
+        "name": "家用电器",
+        "keywords": [
+            "节能补贴",
+            "4K电视",
+            "空气净化器",
+            "IH电饭煲",
+            "滚筒洗衣机",
+            "电热水器"
+        ],
+        "imgUrl": "/images/floor-1-1.png",
+        "navList": [
+            {
+                "url": "#",
+                "text": "热门"
+            },
+            {
+                "url": "#",
+                "text": "大家电"
+            },
+            {
+                "url": "#",
+                "text": "生活电器"
+            },
+            {
+                "url": "#",
+                "text": "厨房电器"
+            },
+            {
+                "url": "#",
+                "text": "应季电器"
+            },
+            {
+                "url": "#",
+                "text": "空气/净水"
+            },
+            {
+                "url": "#",
+                "text": "高端电器"
+            }
+        ],
+        "carouselList": [
+            {
+                "id": "0011",
+                "imgUrl": "/images/floor-1-a.jpg"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "/images/floor-1-b.jpg"
+            },
+            {
+                "id": "0013",
+                "imgUrl": "/images/floor-1-c.jpg"
+            }
+        ],
+        "recommendList": [
+            "/images/floor-1-2.png",
+            "/images/floor-1-3.png",
+            "/images/floor-1-5.png",
+            "/images/floor-1-6.png"
+        ],
+        "bigImg": "/images/floor-1-4.png"
+    },
+    {
+        "id": "002",
+        "name": "数码产品",
+        "keywords": [
+            "品牌手机",
+            "游戏本",
+            "路由器",
+            "键盘",
+            "鼠标",
+            "音响"
+        ],
+        "imgUrl": "/images/redmi-g-pro-i7.jpg",
+        "navList": [
+            {
+                "url": "#",
+                "text": "热门2"
+            },
+            {
+                "url": "#",
+                "text": "游戏本"
+            },
+            {
+                "url": "#",
+                "text": "品牌手机"
+            },
+            {
+                "url": "#",
+                "text": "路由器"
+            },
+            {
+                "url": "#",
+                "text": "键盘"
+            },
+            {
+                "url": "#",
+                "text": "鼠标"
+            },
+            {
+                "url": "#",
+                "text": "音响"
+            }
+        ],
+        "carouselList": [
+            {
+                "id": "0011",
+                "imgUrl": "/images/mac2.jpg"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "/images/apple2.jpg"
+            },
+            {
+                "id": "0013",
+                "imgUrl": "/images/apple1.jpg"
+            }
+        ],
+        "recommendList": [
+            "/images/hauwei1.jpg",
+            "/images/mouse.jpg",
+            "/images/yinxiang.jpg",
+            "/images/mi-router.jpg"
+        ],
+        "bigImg": "/images/floor-1-4.png"
+    }
+]
